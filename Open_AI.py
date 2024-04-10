@@ -3,7 +3,7 @@ from openai import OpenAI
 import time
 
 # Configure OpenAI API Key
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="ENTER YOUR API")
 
 # Function to handle chatbot logic with rate limiting
 def chatbot_response(user_input):
